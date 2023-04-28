@@ -18,12 +18,12 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Papiernik Dev Blog # the main title
+title: The Quality Coder # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Uncovering the Secrets of Backend Development with a Quality Assurance Twist # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: "The Quality Coder: A personal journey from QA engineer to Java backend developer, uncovering coding insights, IT quirks, and a quality-first mindset in backend development." # used by seo meta and the atom feed
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://www.papiernik.dev"
